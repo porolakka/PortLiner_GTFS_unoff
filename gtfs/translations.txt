@@ -1,0 +1,41 @@
+﻿table_name,field_name,language,translation,record_id,field_value
+stops,stop_name,ja-Hrkt,さんのみや,,三宮
+stops,stop_name,en,Sannomiya,,三宮
+stops,stop_name,ja-Hrkt,ぼうえきせんたー,,貿易センター
+stops,stop_name,en,Boeki Center,,貿易センター
+stops,stop_name,ja-Hrkt,ぽーとたーみなる,,ポートターミナル
+stops,stop_name,en,Port Terminal,,ポートターミナル
+stops,stop_name,ja-Hrkt,なかこうえん,,中公園
+stops,stop_name,en,Naka Koen,,中公園
+stops,stop_name,ja-Hrkt,みなとじま,,みなとじま
+stops,stop_name,en,Minatojima(Campus Mae),,みなとじま
+stops,stop_name,ja-Hrkt,しみんひろば,,市民広場
+stops,stop_name,en,Shimin Hiroba(Convention center),,市民広場
+stops,stop_name,ja-Hrkt,いりょうせんたー,,医療センター
+stops,stop_name,en,Iryo Center(Shimin Byoin Mea),,医療センター
+stops,stop_name,ja-Hrkt,けいさんかがくせんたー,,計算科学センター
+stops,stop_name,en,Keisan Kagaku Center(Kobe Animal Kingdom Fugaku Mae),,計算科学センター
+stops,stop_name,ja-Hrkt,こうべくうこう,,神戸空港
+stops,stop_name,en,Kobe Airport,,神戸空港
+stops,stop_name,ja-Hrkt,みなみこうえん,,南公園
+stops,stop_name,en,Minami Koen(IKEA Kobe Children’s Hospital Mae),,南公園
+stops,stop_name,ja-Hrkt,なかふとう,,中埠頭
+stops,stop_name,en,Naka Futo(XEBEC HALL Mae),,中埠頭
+stops,stop_name,ja-Hrkt,きたふとう,,北埠頭
+stops,stop_name,en,Kita Futo,,北埠頭
+trips,trip_headsign,ja-Hrkt,さんのみや,,三宮
+trips,trip_headsign,en,Sannomiya,,三宮
+trips,trip_headsign,ja-Hrkt,きたふとう,,北埠頭
+trips,trip_headsign,en,Kita Futo,,北埠頭
+trips,trip_headsign,ja-Hrkt,なかふとうどまり,,中埠頭止まり
+trips,trip_headsign,en,Naka Futo (stop),,中埠頭止まり
+trips,trip_headsign,ja-Hrkt,こうべくうこう,,神戸空港
+trips,trip_headsign,en,Kobe Airport,,神戸空港
+trips,trip_headsign,ja-Hrkt,けいさんかがくせんたー,,計算科学センター
+trips,trip_headsign,en,Keisan Kagaku Center(Kobe Animal Kingdom Fugaku Mae),,計算科学センター
+stop_times,stop_headsign,ja-Hrkt,きたふとう,,北埠頭
+stop_times,stop_headsign,en,Kita Futo,,北埠頭
+stop_times,stop_headsign,ja-Hrkt,きたふとうけいゆさんのみや,,北埠頭経由三宮
+stop_times,stop_headsign,en,Sannomiya Station Via Kita Futo,,北埠頭経由三宮
+stop_times,stop_headsign,ja-Hrkt,さんのみや,,三宮
+stop_times,stop_headsign,en,Sannomiya,,三宮

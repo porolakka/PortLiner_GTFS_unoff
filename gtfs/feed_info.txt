@@ -1,0 +1,2 @@
+﻿feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version,feed_contact_email,feed_contact_url
+アイ・コラボレーション神戸,https://ickobe.jp/,ja,20240408,20250331,2024v1-2024年04月09日 21時32分13秒-西沢ツールver8.26,porolakka@gmail.com,https://ickobe.jp/inquiry/

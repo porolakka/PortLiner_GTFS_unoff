@@ -1,0 +1,5 @@
+﻿fare_id,price,currency_type,payment_method,transfers,agency_id
+Fare210yen_11,210,JPY,1,1,7140001011983_1
+Fare250yen_11,250,JPY,1,1,7140001011983_1
+Fare290yen_11,290,JPY,1,1,7140001011983_1
+Fare340yen_11,340,JPY,1,1,7140001011983_1

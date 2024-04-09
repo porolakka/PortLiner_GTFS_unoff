@@ -1,0 +1,3 @@
+﻿route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_color,route_text_color
+1,7140001011983_1,空港線,Port Liner / Airport line,,12,B4C1CA,000000
+2,7140001011983_1,ループ線,Port Liner / Loop line,,12,FFAA57,000000

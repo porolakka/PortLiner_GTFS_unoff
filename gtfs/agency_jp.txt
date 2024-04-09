@@ -1,0 +1,2 @@
+﻿agency_id,agency_official_name,agency_zip_number,agency_address
+7140001011983_1,神戸新交通株式会社,6500045,兵庫県神戸市中央区港島六丁目6番地の1
